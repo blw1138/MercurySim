@@ -1,0 +1,10 @@
+number,name,minpercent,maxpercent,minval,maxval
+1,acceleration,0,100,-3,12
+2,altitude,0,100,0,100
+3,roll,0,100,0,100
+4,yaw,0,100,0,100
+5,pitch,0,100,0,100
+6,cabin_pressure,0,100,0,100
+7,descent,0,100,0,100
+8,oxygen_primary,0,100,0,100
+9,oxygen_secondary,0,100,0,100

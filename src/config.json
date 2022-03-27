@@ -1,0 +1,18 @@
+{
+  "allow_failures": false,
+  "prelaunch_time": 5,
+  "capcom": {
+    "prelaunch": {
+      "min": 3,
+      "max": 7
+    },
+    "launch": {
+      "min": 5,
+      "max": 10
+    },
+    "orbit": {
+      "min": 7,
+      "max": 15
+    }
+  }
+}
